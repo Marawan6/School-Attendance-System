@@ -41,7 +41,7 @@ This project serves as a practical application of core Computer Science and Pyth
 1.  **Prerequisites:** Ensure you have Python 3.x installed.
 2.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/YourUsername/School-Attendance-System.git](https://github.com/Marawan6/School-Attendance-System.git)
+    git clone [https://github.com/Marawan6/School-Attendance-System.git](https://github.com/Marawan6/School-Attendance-System.git)
     ```
 3.  **Navigate to the folder:**
     ```bash
