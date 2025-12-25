@@ -77,5 +77,6 @@ This project serves as a practical application of core Computer Science and Pyth
 -------------------------------------------------------
 📈 Total Students: 2
 
+```
 ## 👤 Author
 **Marawan Mohamed**
