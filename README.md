@@ -76,3 +76,6 @@ This project serves as a practical application of core Computer Science and Pyth
 | 2   | Ahmed Ali       | 10A    | 05/11      | Absent   |
 -------------------------------------------------------
 📈 Total Students: 2
+
+## 👤 Author
+**Marawan Mohamed**
